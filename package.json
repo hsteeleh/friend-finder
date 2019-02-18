@@ -1,0 +1,28 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Find a friend",
+  "main": "server.js",
+  "scripts": {
+    "test": "1234",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsteeleh/friend-finder.git"
+  },
+  "keywords": [
+    "Find",
+    "Friend",
+    "amigo"
+  ],
+  "author": "Hannah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsteeleh/friend-finder/issues"
+  },
+  "homepage": "https://github.com/hsteeleh/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
