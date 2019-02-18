@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Ay Ay',
-		photo: 'http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/a/ay/aye-aye/aye-aye_1.jpg',
+		name: 'Puma',
+		photo: 'https://i.pinimg.com/originals/e6/03/3d/e6033d1254c6129768df805fda4936a0.jpg',
 		scores: [
 			'5',
 			'1',
