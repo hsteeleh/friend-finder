@@ -133,27 +133,27 @@ var friendsArray = [
 		photo: 'https://www.worldlifeexpectancy.com/images/a/w/b/genetta-servalina/genetta-servalina.jpg',
 		scores: [
 			'5',
+			'1',
 			'5',
 			'5',
+			'2',
+			'3',
 			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5'
+			'2',
+			'1',
+			'3'
 		]
 	},
 	{
 		name: 'Honduran White Bat',
 		photo: 'http://www.animalspot.net/wp-content/uploads/2016/11/Honduran-White-Bat.jpg',
 		scores: [
+			'5',
 			'1',
+			'3',
 			'1',
-			'1',
-			'1',
-			'1',
-			'1',
+			'2',
+			'4',
 			'1',
 			'1',
 			'1',
